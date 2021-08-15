@@ -1,26 +1,24 @@
 {
-  "ship-nft": {
-    "business": {
-      "name": "Starbound Ship Business Ticket",
-      "description": "A ticket to bring you to the stars",
-      "image": "https://ipfs.io/ipfs/QmYuuugnmChKDkwTLwnVzei56fEvvUroqWwLPeVgaGBsKg",
-      "attributes": [
-        {
-          "trait_type": "class",
-          "value": "Business"
-        }
-      ]
-    },
-    "economy": {
-      "name": "Starbound Ship Economy Ticket",
-      "description": "A ticket to bring you to the stars",
-      "image": "https://ipfs.io/ipfs/QmYuuugnmChKDkwTLwnVzei56fEvvUroqWwLPeVgaGBsKg",
-      "attributes": [
-        {
-          "trait_type": "class",
-          "value": "Economy"
-        }
-      ]
-    }
+  "ship-business": {
+    "name": "Starbound Ship Business Ticket",
+    "description": "A ticket to bring you to the stars",
+    "image": "https://ipfs.io/ipfs/QmYuuugnmChKDkwTLwnVzei56fEvvUroqWwLPeVgaGBsKg",
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "Business"
+      }
+    ]
+  },
+  "ship-economy": {
+    "name": "Starbound Ship Economy Ticket",
+    "description": "A ticket to bring you to the stars",
+    "image": "https://ipfs.io/ipfs/QmYuuugnmChKDkwTLwnVzei56fEvvUroqWwLPeVgaGBsKg",
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "Economy"
+      }
+    ]
   }
 }
