@@ -20,5 +20,16 @@
         "value": "Economy"
       }
     ]
+  },
+  "economy": {
+    "name": "Starbound Ship Economy Ticket",
+    "description": "A ticket to bring you to the stars",
+    "image": "https://i.ibb.co/B2jhPLR/Ship-Ticket-Economy.png",
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "Economy"
+      }
+    ]
   }
 }
